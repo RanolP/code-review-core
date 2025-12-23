@@ -1,4 +1,4 @@
-# CodeReviewCore
+# Code Review Core
 
 The hardest things in code review are
 
@@ -13,3 +13,5 @@ We fix them all.
 - AST-diffing based on difftastic engine (like SemanticDiff)
 - Hunks regrouped, seems stacked
 - Natural file-tree view integration, like reviewing on VS Code
+- Chat with diffs for more context
+- Leave "review comment" and "informational comment" to help reviewers
